@@ -36,6 +36,30 @@ Despite the challenges, I have learned a lot from this assignment. I better unde
 I aim to apply what I have learned from this experience for future assignments. I will spend more time on difficult areas and focus on understanding the underlying concepts better. I will also try to practice more with real-life scenarios to become more comfortable with these technologies.
 **What are your next steps in improving your understanding of the MEAN stack?**
  I plan to continue learning by working on more MEAN stack projects. I believe practical knowledge application is crucial to understanding complex subjects. I will also seek help from online resources and the developer community when encountering difficulties.
+ 
+ **4.2 Self Evaluation**
+**How long did I spend on this assignment?**
+I spent three days on this assignment, dedicating several hours each day to complete the required tasks.
+**Based on my effort, what letter grade would I say I earned?**
+Considering the effort I put in, including the time spent researching, coding, and troubleshooting, I would say I deserve an A grade for my commitment and dedication to completing the assignment.
+**Based on my solution, what letter grade would I say I earned?** 
+Regarding the solution I developed, I believe it deserves an A grade. It successfully fulfills the requirements of creating an Angular-based front end that enables adding/updating/deleting players and performing the specified queries.
+**What doesn't work in my solution, and how did I attempt to solve the problem? Where did I struggle?** 
+While the overall solution is functional, there is a specific area that needs improvement—error handling. During the implementation, I encountered challenges in handling errors and exceptions gracefully. For instance, when submitting invalid input, the application might not provide clear feedback to the user. I added basic try-catch blocks and implemented some error-handling mechanisms to address this. However, there may still be cases where errors are not adequately handled or communicated to the user, leading to an inconsistent user experience.
+
+**4.3 Final Project Self-evaluation**
+**How long did I spend on this assignment?**
+I dedicated around four days to completing this assignment, investing time in designing the data set, developing the API using Node.js and Express, and creating the user interface with Angular.
+**Based on my effort, what letter grade would I say I earned?** 
+Considering the time and effort I put into this assignment, I deserve an A for my commitment and dedication to completing the task.
+**Based on my solution, what letter grade would I say I earned?** 
+Regarding the solution I developed, I believe it deserves an A grade. I successfully created a MongoDB data set related to one of my hobbies, implemented a well-designed API with five endpoints (including two for retrieving data), and created a functional user interface using Angular.
+**What doesn't work in my solution, and how did I attempt to solve the problem? Where did I struggle?** 
+While the overall solution is functional, there is one area that requires improvement—user authentication and authorization. I struggled with implementing a secure authentication system to protect the API endpoints and ensure only authorized users can interact with the data. Although I attempted to address this issue by implementing basic authentication mechanisms, there is still room for enhancement to ensure a more robust and secure solution.
+
+
+
+
 
 
 
